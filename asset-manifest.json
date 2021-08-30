@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-maps-react-skeleton/static/css/main.e82b2d8e.chunk.css",
+    "main.js": "/google-maps-react-skeleton/static/js/main.6159e340.chunk.js",
+    "main.js.map": "/google-maps-react-skeleton/static/js/main.6159e340.chunk.js.map",
+    "runtime~main.js": "/google-maps-react-skeleton/static/js/runtime~main.1f105aa7.js",
+    "runtime~main.js.map": "/google-maps-react-skeleton/static/js/runtime~main.1f105aa7.js.map",
+    "static/js/2.84d4c614.chunk.js": "/google-maps-react-skeleton/static/js/2.84d4c614.chunk.js",
+    "static/js/2.84d4c614.chunk.js.map": "/google-maps-react-skeleton/static/js/2.84d4c614.chunk.js.map",
+    "index.html": "/google-maps-react-skeleton/index.html",
+    "precache-manifest.eafadb2e552e604cdbe530193c9d4e47.js": "/google-maps-react-skeleton/precache-manifest.eafadb2e552e604cdbe530193c9d4e47.js",
+    "service-worker.js": "/google-maps-react-skeleton/service-worker.js",
+    "static/css/main.e82b2d8e.chunk.css.map": "/google-maps-react-skeleton/static/css/main.e82b2d8e.chunk.css.map"
+  }
+}
